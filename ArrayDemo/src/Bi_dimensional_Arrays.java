@@ -14,7 +14,7 @@ public class Bi_dimensional_Arrays {
 		
 		
 		
-		arr[0] = arr[1];//the element on idx[0] references to the same obj of element on ind[1]
+		arr[0] = arr[1];//the element on idx[0] references to the same obj of element on idx[1]
 		System.out.println(arr[0]+"\t" + arr[1] + "\n I am a genius! haha\n\n");
 		
 		
