@@ -5,8 +5,9 @@ public class Bi_dimensional_Arrays {
 
 	public static void main(String[] args) {
 		
-		int [][] arr = new int [2][6];//2 elements that are each able to reference 6 elements
-		//12 total accessible elements//symbolizes arrays referenced by the elements of an outer array
+		int [][] arr = new int [2][6];//symbolizes arrays referenced by the elements of an outer array
+		//2 elements that are each able to reference 6 elements
+		//12 total accessible elements
 		
 		arr[0][0] = 45;
 		arr[0][1] = 46;
