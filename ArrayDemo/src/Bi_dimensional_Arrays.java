@@ -1,4 +1,6 @@
-
+/*
+ *@author Jimmeh Camara
+ */
 public class Bi_dimensional_Arrays {
 
 	public static void main(String[] args) {
