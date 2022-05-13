@@ -1,3 +1,6 @@
+/**
+*@author Jimmeh Camara
+*/
 import java.util.*;
 public class YoungMan{
 	public static void main(String[] args){
